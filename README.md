@@ -6,3 +6,5 @@
 6. discord.bat для discord
 7. chek_updates.bat обновление файлов
 8. папку bin не удалять
+9. если при открыти от имени администратора появляется надпись "Visit https://github.com/Flowseal/zapret-discord-youtube/releases to download a new version
+Skip this update? (y/n, default: n): y    " ввести "y" нажать интер
